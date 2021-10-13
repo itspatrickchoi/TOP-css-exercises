@@ -1,0 +1,11 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div {
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  font-size: 32px;
+  text-align: center;
+}
